@@ -20,3 +20,9 @@ A modern and responsive Notes App built using React.js and Tailwind CSS.
 
 ## 📚 Learning Outcome
 This project helped me improve my understanding of React state management, event handling, and frontend development.
+
+## 📸 Project Preview
+![Notes App](./screenshots/homepage.png)
+
+## Live Demo
+https://notes-app-blond-delta-31.vercel.app/
